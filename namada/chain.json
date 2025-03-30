@@ -3,7 +3,10 @@
   "chain_name": "namada",
   "status": "live",
   "network_type": "mainnet",
-  "website": "https://namada.net",
+  "twitter": "https://x.com/namada",
+  "discord": "https://discord.gg/namada",
+  "website": "https://namada.net/",
+  "telegram": "https://t.me/namadaprotocol",
   "pretty_name": "Namada",
   "chain_type": "namada",
   "chain_id": "namada.5f5de2dd1b88cba30586420",
@@ -117,10 +120,10 @@
   },
   "explorers": [
     {
-      "kind": "Shielded.Live",
-      "url": "https://shielded.live",
-      "tx_page": "https://shielded.live/txs/${txHash}",
-      "account_page": "https://shielded.live/address/${accountAddress}"
+      "kind": "Cerberus Explorer",
+      "url": "https://explorer.cerberusnode.com",
+      "tx_page": "https://explorer.cerberusnode.com/txs/${txHash}",
+      "account_page": "https://explorer.cerberusnode.com/account/${accountAddress}"
     }
   ],
   "logo_URIs": {
