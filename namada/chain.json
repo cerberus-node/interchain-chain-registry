@@ -1,8 +1,6 @@
 {
   "$schema": "../chain.schema.json",
   "chain_name": "namada",
-  "status": "live",
-  "network_type": "mainnet",
   "twitter": "https://x.com/namada",
   "discord": "https://discord.gg/namada",
   "website": "https://namada.net/",
@@ -54,14 +52,20 @@
       "time": "1209600s"
     }
   },
-  "explorers": [
-    {
+  "explorers": {
+    "mainnet": {
       "kind": "Cerberus Explorer",
-      "url": "https://explorer.cerberusnode.com",
-      "tx_page": "https://explorer.cerberusnode.com/txs/${txHash}",
-      "account_page": "https://explorer.cerberusnode.com/account/${accountAddress}"
+      "url": "https://namada-explorer.cerberusnode.com",
+      "tx_page": "https://namada-explorer.cerberusnode.com/txs/${txHash}",
+      "account_page": "https://namada-explorer.cerberusnode.com/account/${accountAddress}"
+    },
+    "testnet": {
+      "kind": "Cerberus Explorer",
+      "url": "https://namada-explorer.testnet.cerberusnode.com",
+      "tx_page": "https://namada-explorer.testnet.cerberusnode.com/txs/${txHash}",
+      "account_page": "https://namada-explorer.testnet.cerberusnode.com/account/${accountAddress}"
     }
-  ],
+  },
   "logo_URIs": {
     "svg": "https://raw.githubusercontent.com/anoma/namada-chain-registry/main/namada/images/namada.svg"
   }
