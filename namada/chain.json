@@ -1,5 +1,4 @@
 {
-  "$schema": "../chain.schema.json",
   "chain_name": "namada",
   "twitter": "https://x.com/namada",
   "discord": "https://discord.gg/namada",
