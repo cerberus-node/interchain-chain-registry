@@ -8,6 +8,7 @@
   "pretty_name": "Namada",
   "chain_type": "namada",
   "chain_id": "namada.5f5de2dd1b88cba30586420",
+  "description": "Namada is the shielded asset hub rewarding you to protect the multichain. A New Era of Shielded Multichain Interactions",
   "slip44": 877,
   "bech32_prefix": "tnam",
   "daemon_name": "unam",
