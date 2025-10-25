@@ -11,6 +11,7 @@
         "display": "nam",
         "symbol": "NAM",
         "address": "tnam1q9gr66cvu4hrzm0sd5kmlnjje82gs3xlfg3v6nu7",
+        "delegate_url": "https://namada.valopers.com/validators/tnam1q8yksf6xqm6u8e2axhy7wyx0elslnh7tdsrp2y9m",
         "logo": {
             "svg": "https://raw.githubusercontent.com/anoma/namada-chain-registry/main/namada/images/namada.svg"
         }
