@@ -15,5 +15,90 @@
         "logo": {
             "svg": "https://raw.githubusercontent.com/anoma/namada-chain-registry/main/namada/images/namada.svg"
         }
+    },
+    {
+        "chain_id": "allora-testnet-1",
+        "description": "The native token of Allora Network",
+        "twitter": "https://x.com/AlloraNetwork",
+        "discord": "https://discord.gg/allora",
+        "website": "https://www.allora.network",
+        "telegram": "",
+        "base": "uallo",
+        "name": "Allora Testnet",
+        "display": "allo",
+        "symbol": "ALLO",
+        "address": "",
+        "delegate_url": "https://explorer.testnet.allora.network/allora-testnet-1/staking/allovaloper1n00e7w0c8u98t4ktayhmxv3m6sayqpt6jmpzep",
+        "logo": {
+            "jpg": "https://pbs.twimg.com/profile_images/1793726657783812096/sDRnXVCd_400x400.jpg"
+        }
+    },
+    {
+        "chain_id": "allora-testnet-1",
+        "description": "The native token of Allora Network",
+        "twitter": "https://x.com/airchains_io",
+        "discord": "https://discord.gg/nurCZeVsz8",
+        "website": "https://www.airchains.io",
+        "telegram": "",
+        "base": "uamf",
+        "name": "Airchains Testnet",
+        "display": "amf",
+        "symbol": "AMF",
+        "address": "",
+        "delegate_url": "https://testnet.junction.explorers.guru/validator/airvaloper138hsqunapqrzk4vyeda0kyxla9xfp6cht4525s",
+        "logo": {
+            "jpg": "https://pbs.twimg.com/profile_images/1871581245085450240/_IQYv51O_400x400.jpg"
+        }
+    },
+    {
+        "chain_id": "aztec-testnet-1",
+        "description": "The native token of Aztec Network",
+        "twitter": "https://x.com/aztecnetwork",
+        "discord": "https://discord.gg/aztec",
+        "website": "https://www.aztec.network",
+        "telegram": "",
+        "base": "uaztec",
+        "name": "Aztec Testnet",
+        "display": "aztec",
+        "symbol": "AZTC",
+        "address": "",
+        "delegate_url": "https://dashtec.xyz/validators/0x27468251735d4ba150F5329cb4Ce8DBB50baEa06",
+        "logo": {
+            "jpg": "https://pbs.twimg.com/profile_images/1974129186290782208/huSA6eSM_400x400.jpg"
+        }
+    },
+    {
+        "chain_id": "0gchain-16601",
+        "description": "The native token of 0G Chain",
+        "twitter": "https://x.com/0G_labs",
+        "discord": "https://discord.gg/0glabs",
+        "website": "https://0g.ai",
+        "telegram": "https://t.me/web3_0glabs",
+        "base": "u0g",
+        "name": "0G Chain Testnet",
+        "display": "0G",
+        "symbol": "0G",
+        "address": "0x0653028C0F2ad1876bf37B504C69bF71C88b4d8e",
+        "delegate_url": "",
+        "logo": {
+            "png": "https://pbs.twimg.com/profile_images/1975040753731809281/SCpBiuJZ_400x400.png"
+        }
+    },
+    {
+        "chain_id": "gensyn-testnet",
+        "description": "The native token of Gensyn Network",
+        "twitter": "https://x.com/gensynai",
+        "discord": "https://discord.gg/gensyn",
+        "website": "https://www.gensyn.ai",
+        "telegram": "",
+        "base": "ugens",
+        "name": "Gensyn Testnet",
+        "display": "gens",
+        "symbol": "GENS",
+        "address": "",
+        "delegate_url": "",
+        "logo": {
+            "png": "https://pbs.twimg.com/profile_images/1893746041926885376/L-4D2qr9_400x400.jpg"
+        }
     }
 ]

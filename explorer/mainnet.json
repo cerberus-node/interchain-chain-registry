@@ -15,5 +15,39 @@
         "logo": {
             "svg": "https://raw.githubusercontent.com/anoma/namada-chain-registry/main/namada/images/namada.svg"
         }
+    },
+    {
+        "chain_id": "prover-mainnet",
+        "description": "",
+        "twitter": "https://x.com/SuccinctLabs",
+        "discord": "https://discord.gg/succinctlabs",
+        "website": "https://succinct.xyz",
+        "telegram": "",
+        "base": "",
+        "name": "Succinct Mainnet",
+        "display": "PROVE",
+        "symbol": "PROVE",
+        "address": "0x6BEF15D938d4E72056AC92Ea4bDD0D76B1C4ad29",
+        "delegate_url": "https://explorer.succinct.xyz/prover/0x6f7f48e0a79b607061acb09fa2c0893973a988d5",
+        "logo": {
+            "jpg": "https://pbs.twimg.com/profile_images/1869832257718059008/b-fPXhnB_400x400.jpg"
+        }
+    },
+    {
+        "chain_id": "0g-alignment-mainnet",
+        "description": "",
+        "twitter": "https://x.com/0G_labs",
+        "discord": "https://discord.gg/0glabs",
+        "website": "https://0g.ai",
+        "telegram": "https://t.me/web3_0glabs",
+        "base": "u0g",
+        "name": "0G Alignment Mainnet",
+        "display": "0G",
+        "symbol": "0G",
+        "address": "0x0653028C0F2ad1876bf37B504C69bF71C88b4d8e",
+        "delegate_url": "https://alignment-reward.cerberusnode.com",
+        "logo": {
+            "png": "https://pbs.twimg.com/profile_images/1975040753731809281/SCpBiuJZ_400x400.png"
+        }
     }
 ]
