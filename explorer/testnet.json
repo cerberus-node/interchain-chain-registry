@@ -34,8 +34,8 @@
         }
     },
     {
-        "chain_id": "allora-testnet-1",
-        "description": "The native token of Allora Network",
+        "chain_id": "junction",
+        "description": "The native token of Airchains Network",
         "twitter": "https://x.com/airchains_io",
         "discord": "https://discord.gg/nurCZeVsz8",
         "website": "https://www.airchains.io",
